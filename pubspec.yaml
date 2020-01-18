@@ -1,6 +1,6 @@
 name: flutter_image_gallery
-description: A Flutter Image Gallery plugin.
-version: 1.0.1
+description: A Flutter image gallery plugin that allows you to display images from local iOS and Android image galleries.
+version: 1.0.6
 author: Ryan Godlonton-Shaw
 homepage: https://github.com/rgodlontonshaw/flutter_image_gallery
 

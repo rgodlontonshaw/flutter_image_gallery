@@ -1,5 +1,3 @@
-# flutter_image_gallery
-
 <h1 align="center">
   A Flutter Image Gallery plugin.
   <br>
@@ -17,7 +15,7 @@
 * Thumbnail support
 * Read image meta data
 
-[flutter_image_picker](https://pub.dev/packages/flutter_image_gallery) - Flutter image gallery plugin
+[flutter_image_gallery](https://pub.dev/packages/flutter_image_gallery) - Flutter image gallery plugin
 
 ## Usage
 
@@ -39,18 +37,18 @@
 
 ## Support
 
-If this plugin was assisted you in any way and saved you time, please donate below:
+If this plugin has assisted you in any way and saved you time, please donate below:
 
   <a href="">
     <img src="https://www.drupal.org/files/project-images/bitcoindonate.png"
          alt="Donate">
   </a>
+  <br>
   Bitcoin Address: 1DttBdf6PWLUPXJLWVTRGWyeXvEMmWjM5p
          
 ## License
 
 MIT
 
----
 > GitHub [@rgodlontonshaw](https://github.com/rgodlontonshaw) &nbsp;&middot;&nbsp;
 > Twitter [@rgodlontonshaw](https://twitter.com/rgodlontonshaw)
