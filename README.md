@@ -37,7 +37,7 @@
 
 ## Support
 
-If this plugin was assisted you in any way and saved you time, please donate below:
+If this plugin has assisted you in any way and saved you time, please donate below:
 
   <a href="">
     <img src="https://www.drupal.org/files/project-images/bitcoindonate.png"
@@ -49,6 +49,5 @@ If this plugin was assisted you in any way and saved you time, please donate bel
 
 MIT
 
----
 > GitHub [@rgodlontonshaw](https://github.com/rgodlontonshaw) &nbsp;&middot;&nbsp;
 > Twitter [@rgodlontonshaw](https://twitter.com/rgodlontonshaw)
