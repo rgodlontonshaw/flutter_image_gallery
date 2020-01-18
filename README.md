@@ -1,5 +1,3 @@
-# flutter_image_gallery
-
 <h1 align="center">
   A Flutter Image Gallery plugin.
   <br>
